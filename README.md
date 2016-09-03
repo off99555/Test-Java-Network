@@ -11,4 +11,4 @@ You can run as many clients as you want for any particular server. It's like a b
 
 ## Screenshots
 
-![chat client](/img/2016-09-03_11-19-17.png)
+![chat client](/img/2016-09-03_11-19-17.png "Chat Client")
