@@ -2,6 +2,8 @@
 
 A simple Java Chat application with GUI over network
 
+This app is built as an exercise following the instructions provided by a smart guy of the book __Head First Java__.
+
 ## How to run
 
 1. Run **java my.net.SimpleChatServer** for server at the appropriate folder (you may need to allow the software's access to your network when the prompt is shown) The server can be used for broadcasting message to its connected clients by typing into the console directly.
